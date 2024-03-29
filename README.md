@@ -1,6 +1,6 @@
 this template is a project of Joshua Baya Shida
 still under development to get a full working portal, 
-please before using this or duplicating the codes i would love to here from you
+please before using this or duplicating the codes i would love to hear from you
 on +254707886443 or joshuabaya6@gmail.com
 ## Features
 
